@@ -1,2 +1,7 @@
 1. npm install --g typescript
-2. 
+2. For manage package.json "npm init -y"
+3. For tsconfig.json "tsc.cmd --init"
+4. Make a file with extention .tsc
+5. Run "tsc" in cmd
+6. Run "node app.js" in cmd
+7. Go to tsconfig and "Module = "Nodenext" & "ModuleResulation : "Nodenext"
