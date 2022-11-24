@@ -3,3 +3,5 @@ console.log(message);
 let a = 5;
 let b = 10;
 console.log(a+b);
+let d = 10;
+console.log(a+b*d);
