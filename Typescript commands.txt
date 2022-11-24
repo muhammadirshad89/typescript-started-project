@@ -5,3 +5,4 @@
 5. Run "tsc" in cmd
 6. Run "node app.js" in cmd
 7. Go to tsconfig and "Module = "Nodenext" & "ModuleResulation : "Nodenext"
+8. To complie file regularly give command "tsc app.js -w" 
